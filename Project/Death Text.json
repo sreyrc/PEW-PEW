@@ -1,0 +1,19 @@
+{
+	"Type": "Death Text",
+	
+	"Name": "Death Text",
+
+	"Transform": {
+		"posX": 200.0,
+		"posY": 300.0,
+		"scaleX": 192.00,
+		"scaleY": 100.0
+	},
+
+	"Sprite": {
+		"Image Path": "..\\Resources\\Death Text.png",
+		"Image Width": 192,
+		"Image Height": 100
+	}
+}
+	

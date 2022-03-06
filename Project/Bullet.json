@@ -1,0 +1,21 @@
+{
+	"Type": "Bullet",
+	
+	"Name": "Bullet",
+
+	"Transform": {
+		"posX": 0.0,
+		"posY": 0.0,
+		"scaleX": 3.0,
+		"scaleY": 7.0
+	},
+
+	"Sprite": {
+		"Image Path": "..\\Resources\\Bullet.png",
+		"Image Width": 252,
+		"Image Height": 738
+	},
+
+	"Color": "Cyan"
+}
+	

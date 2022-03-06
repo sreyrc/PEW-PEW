@@ -1,0 +1,21 @@
+{
+	"Type": "Red Line",
+	
+	"Name": "Red Line",
+
+	"Transform": {
+		"posX": 0.0,
+		"posY": 0.0,
+		"scaleX": 367,
+		"scaleY": 4
+	},
+
+	"Sprite": {
+		"Image Path": "..\\Resources\\Red Line.png",
+		"Image Width": 367,
+		"Image Height": 8
+	},
+
+	"Color" : "Red"
+}
+	

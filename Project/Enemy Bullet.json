@@ -1,0 +1,20 @@
+{
+	"Type": "Enemy Bullet",
+
+	"Name": "Enemy Bullet",
+
+	"Transform": {
+		"posX": 0.0,
+		"posY": 0.0,
+		"scaleX": 6.0,
+		"scaleY": 14.0
+	},
+
+	"Sprite": {
+		"Image Path": "..\\Resources\\Enemy Bullet.png",
+		"Image Width": 155,
+		"Image Height": 701
+	},
+
+	"Health": 1
+}

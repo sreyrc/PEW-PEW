@@ -1,0 +1,19 @@
+{
+	"Type": "Win Text",
+	
+	"Name": "Win Text",
+
+	"Transform": {
+		"posX": 200.0,
+		"posY": 300.0,
+		"scaleX": 80.33,
+		"scaleY": 61.0
+	},
+
+	"Sprite": {
+		"Image Path": "..\\Resources\\Win Text.png",
+		"Image Width": 241,
+		"Image Height": 183
+	}
+}
+	

@@ -1,0 +1,23 @@
+{
+	"Type": "Enemy",
+
+	"Name": "Enemy",
+
+	"Transform": {
+		"posX": 0.0,
+		"posY": 0.0,
+		"scaleX": 30.0,
+		"scaleY": 30.0
+	},
+
+	"Sprite": {
+		"Image Path": "..\\Resources\\Enemy.png",
+		"Image Width": 353,
+		"Image Height": 257
+	},
+
+	"Health": 2,
+
+	"Color": "Yellow"
+}
+	

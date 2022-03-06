@@ -1,0 +1,22 @@
+{
+	"Type": "Beam Ammo Image",
+	
+	"Name": "Beam Ammo Image",
+
+	"Transform": {
+		"posX": 0.0,
+		"posY": 0.0,
+		"scaleX": 20.0,
+		"scaleY": 20.0
+	},
+
+	"Sprite": {
+		"Image Path": "..\\Resources\\Beam Ammo.png",
+		"Image Width": 524,
+		"Image Height": 499
+	},
+
+	"Color" : "Yellow"
+
+}
+	

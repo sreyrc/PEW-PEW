@@ -1,0 +1,24 @@
+{
+	"Type": "Enemy",
+
+	"Name": "Enemy",
+
+	"Transform": {
+		"posX": 0.0,
+		"posY": 0.0,
+		"scaleX": 60.0,
+		"scaleY": 60.0
+	},
+
+	"Sprite": {
+		"Image Path": "..\\Resources\\Big Enemy.png",
+		"Image Width": 600,
+		"Image Height": 436
+	},
+
+	"Health": 4,
+	
+	"Color": "Red",
+
+	"Big Enemy Powers": {}
+}

@@ -1,0 +1,27 @@
+{
+	"Type": "Player",
+
+	"Name": "Player",
+
+	"Transform": {
+		"posX": 0.0,
+		"posY": 0.0,
+		"scaleX": 40.0,
+		"scaleY": 40.0
+	},
+
+	"Sprite": {
+		"Image Path": "..\\Resources\\Player.png",
+		"Image Width": 946,
+		"Image Height": 1069
+	},
+
+	"Health": 3,
+
+	"Beam Ammo": 3,
+
+	"Controller": {},
+
+	"Color": "Yellow"
+}
+	

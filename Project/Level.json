@@ -1,0 +1,27 @@
+{
+	"Game Objects": [
+		{
+			"Archetype": "Player.json",
+
+			"Transform": {
+				"posX": 400.0,
+				"posY": 600.0
+			}
+		},
+
+		{
+			"Archetype": "Stat Display Manager.json"
+		},
+
+		{
+			"Archetype": "Red Line.json",
+
+			"Transform": {
+				"posX": 200.0,
+				"posY": 400.0
+			}
+		}
+
+	]
+
+}

@@ -1,0 +1,21 @@
+{
+	"Type": "Beam",
+	
+	"Name": "Beam",
+
+	"Transform": {
+		"posX": 0.0,
+		"posY": 0.0,
+		"scaleX": 40.0,
+		"scaleY": 20.0
+	},
+
+	"Sprite": {
+		"Image Path": "..\\Resources\\Beam.png",
+		"Image Width": 196,
+		"Image Height": 78
+	},
+
+	"Color" :  "Cyan"
+}
+	

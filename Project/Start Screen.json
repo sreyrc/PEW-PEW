@@ -1,0 +1,19 @@
+{
+	"Type": "Start Screen",
+	
+	"Name": "Start Screen",
+
+	"Transform": {
+		"posX": 200.0,
+		"posY": 300.0,
+		"scaleX": 200.0,
+		"scaleY": 300.0
+	},
+
+	"Sprite": {
+		"Image Path": "..\\Resources\\Start Screen.png",
+		"Image Width": 400,
+		"Image Height": 600
+	}
+}
+	
