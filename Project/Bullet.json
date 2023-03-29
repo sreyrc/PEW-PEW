@@ -12,8 +12,8 @@
 
 	"Sprite": {
 		"Image Path": "..\\Resources\\Bullet.png",
-		"Image Width": 252,
-		"Image Height": 738
+		"Image Width": 504,
+		"Image Height": 1476
 	},
 
 	"Color": "Cyan"

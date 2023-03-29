@@ -12,8 +12,8 @@
 
 	"Sprite": {
 		"Image Path": "..\\Resources\\Heart.png",
-		"Image Width": 512,
-		"Image Height": 512
+		"Image Width": 516,
+		"Image Height": 516
 	},
 
 	"Color": "Red"

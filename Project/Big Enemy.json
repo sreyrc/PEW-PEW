@@ -13,7 +13,7 @@
 	"Sprite": {
 		"Image Path": "..\\Resources\\Big Enemy.png",
 		"Image Width": 600,
-		"Image Height": 436
+		"Image Height": 601
 	},
 
 	"Health": 4,

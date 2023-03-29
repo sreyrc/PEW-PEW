@@ -12,8 +12,8 @@
 
 	"Sprite": {
 		"Image Path": "..\\Resources\\Enemy.png",
-		"Image Width": 353,
-		"Image Height": 257
+		"Image Width": 2049,
+		"Image Height": 2048
 	},
 
 	"Health": 2,
