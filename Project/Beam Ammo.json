@@ -12,8 +12,8 @@
 
 	"Sprite": {
 		"Image Path": "..\\Resources\\Beam Ammo.png",
-		"Image Width": 524,
-		"Image Height": 499
+		"Image Width": 3001,
+		"Image Height": 3001
 	},
 
 	"Color" : "Yellow" 
